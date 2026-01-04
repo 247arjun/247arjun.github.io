@@ -1,3 +1,10 @@
 title: Arjun's Blog
 description: My personal blog
 theme: minima
+
+# Optional settings
+show_excerpts: true
+permalink: /:year/:month/:day/:title/
+
+# Include _pages folder
+include: ["_pages"]
