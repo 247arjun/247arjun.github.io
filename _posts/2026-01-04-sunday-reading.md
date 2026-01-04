@@ -14,6 +14,6 @@ Two such sources of content that I look forward to every Sunday straddle both of
 
 The [CloudSecList](https://cloudseclist.com/) newsletter is the best way to stay on top of the cloud security landscape without being overwhelmed by all the noise.
 
-The [Blog for Engineering Managers](https://www.blog4ems.com/) publishes a "Sunday Reads for arms" every Sunday that compile articles from multiple other blogs, with some great content usually making the cut. 
+The [Blog for Engineering Managers](https://www.blog4ems.com/) publishes a "Sunday Reads for EMs" every Sunday that compile articles from multiple other blogs, with some great content usually making the cut. 
 
 What other content do you read, especially on weekends?
