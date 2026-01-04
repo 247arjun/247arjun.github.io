@@ -33,3 +33,8 @@ I'm a Security Engineering Manager at Microsoft, working to keep Microsoft Cloud
 - 📚 Sources, a SwiftUI app for macOS that is a clean, modern RSS Reader.
 
 - 📱 AntiSocial, an iOS app that allows you to block tracking from popular social networks.
+
+## 🔗 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-247arjun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/247arjun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-247arjun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/247arjun)
