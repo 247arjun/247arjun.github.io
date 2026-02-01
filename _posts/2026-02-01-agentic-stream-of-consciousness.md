@@ -14,7 +14,7 @@ If you look back to 2024, when most LLM APIs were completions endpoints, the onl
 
 Reasoning models added thought tokens which may be invisible to the user but were the thought traces for the LLM inference (inference time compute).
 
-Now with agents making tool calls, and there are other entities also participating and influencing the flow of a conversation. 
+Now with agents making tool calls, other entities are also participating and influencing the flow of a conversation. 
 
 I took a stab at vibe-composing a `SKILLS.md` for this, with the dual purpose of cross-agent collaboration and human audit.
 - Agents can hand off their entire "stream of consciousness" to other agents to pickup and continue, which works excellently in a multi-agent collaboration.
